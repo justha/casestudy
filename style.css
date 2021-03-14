@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: dimgrey;
+    width: 500px;
+    margin: 125px 200px 125px 200px;
+    font-size: small;
+}
+
+img {
+    width: 500px;
+    margin: 20px 0 0 0;
+}
+
+a {
+    color: #f5b85f;
+    text-decoration: none;
+}
+
+.link--attribute {
+    color: dodgerblue;
+}
+
+ol {
+    line-height: 250%;
+}
